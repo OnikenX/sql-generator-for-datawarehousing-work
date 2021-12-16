@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "پرهام",
+                "last": "سالاری"
+            },
+            "location": {
+                "street": {
+                    "number": 8109,
+                    "name": "برادران حسنی"
+                },
+                "city": "یزد",
+                "state": "خراسان جنوبی",
+                "country": "Iran",
+                "postcode": 82712,
+                "coordinates": {
+                    "latitude": "35.0338",
+                    "longitude": "-64.7707"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "prhm.slry@example.com",
+            "login": {
+                "uuid": "f49c2f4c-3ee0-450d-9eca-b96a3ac2d476",
+                "username": "silverostrich750",
+                "password": "tights",
+                "salt": "o53dwbZu",
+                "md5": "25705ff5fe78508a1814a2522b3417f2",
+                "sha1": "6db06e1e4be152b6167ae13acfea97a4605241ac",
+                "sha256": "8320d62ecaac07b85f39f80704412b8c5ca6b0dc93ef5646fd65d7ac979756b7"
+            },
+            "dob": {
+                "date": "1978-04-22T15:53:17.176Z",
+                "age": 43
+            },
+            "registered": {
+                "date": "2009-01-01T07:14:23.816Z",
+                "age": 12
+            },
+            "phone": "016-71824457",
+            "cell": "0998-362-6600",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+            },
+            "nat": "IR"
+        }
+    ]
+}
